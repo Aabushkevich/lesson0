@@ -1,11 +1,12 @@
 name = 'Anton'
-print(name)
+print('имя:'+ name)
 
 age = 34
-print(age)
+print('возраст:' + str(age))
 
 age = age + 1
-print(age)
+print('Новый век:' + str(age))
 
 is_student = True
-print(is_student)
+print('Является ли студент:' + str(is_student))
+
